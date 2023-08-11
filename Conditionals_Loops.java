@@ -1,8 +1,8 @@
-//import java.util.Scanner;
+import java.util.Scanner;
 
 public class Conditionals_Loops {
   public static void main(String[] args) {
-    //Scanner in = new Scanner(System.in);
+    Scanner in = new Scanner(System.in);
     /*1. Area Of Circle Java Program
       System.out.println("Enter radious = ");
       int r = in.nextInt();
@@ -165,11 +165,11 @@ public class Conditionals_Loops {
           max = n;
       }
       System.out.println("Max value = "+max);*/
-    /*26. Addition Of Two Numbers
+    //26. Addition Of Two Numbers
       System.out.print("Enter number = ");
       int a = in.nextInt();
       System.out.print("enter number = ");
       int b = in.nextInt();
-      System.out.println(a+" + "+b+" = "+ (a+b));*/
+      System.out.println(a+" + "+b+" = "+ (a+b));
   }
 }
