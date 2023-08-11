@@ -165,11 +165,11 @@ public class Conditionals_Loops {
           max = n;
       }
       System.out.println("Max value = "+max);*/
-    //26. Addition Of Two Numbers
+    /*26. Addition Of Two Numbers
       System.out.print("Enter number = ");
       int a = in.nextInt();
       System.out.print("enter number = ");
       int b = in.nextInt();
-      System.out.println(a+" + "+b+" = "+ (a+b));
+      System.out.println(a+" + "+b+" = "+ (a+b));*/
   }
 }
